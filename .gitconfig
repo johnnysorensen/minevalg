@@ -1,0 +1,48 @@
+[user]
+  name = Johnny Sørensen
+  email = johnny.sorensen@gmail.com
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  grep = auto
+[log]
+  ui = auto
+  decorate = full
+[format]
+  pretty = %Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset
+[core]
+  pager = cat
+  editor = vi
+  autocrlf = input
+  excludesfile = ~/.gitignore_global
+
+  # Treat spaces before tabs and all kinds of trailing whitespace as an error
+  # [default] trailing-space: looks for spaces at the end of a line
+  # [default] space-before-tab: looks for spaces before tabs at the beginning of a line
+  whitespace = space-before-tab,-indent-with-non-tab,trailing-space
+  filemode = false
+[help]
+  # Automatically correct and execute mistyped commands
+  autocorrect = 1
+[push]
+  # Make git push push relevant annotated tags when pushing branches out
+  followTags = true
+  default = simple
+[http]
+  proxy = proxy.xxx.no:80
+  sslVerify = false
+[url "https://github.com/"]
+  insteadOf = git://github.com/
+[pull]
+  # Always rebase on pull, never merge
+  rebase = true
+[alias]
+  st = status
+  s = status -s
+  co = checkout
+  ci = commit
+  bl = branch -a
+  a = !git config --get-regexp 'alias.*'
+  lg = !git --no-pager log -20 --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+  lgl = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
