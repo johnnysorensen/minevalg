@@ -1,6 +1,6 @@
 [user]
   name = Johnny Sørensen
-  email = johnny.sorensen....
+  email = johnny.sorensen@gmail.com
 [color]
   diff = auto
   status = auto
@@ -29,14 +29,13 @@
   # Make git push push relevant annotated tags when pushing branches out
   followTags = true
   default = simple
-[http]
-  proxy = proxy.xxx.no:80
-  sslVerify = false
+; [http]
+;   proxy = proxy.xxx.no:80
+;   sslVerify = false
 [url "https://github.com/"]
   insteadOf = git://github.com/
 [pull]
-  # Always rebase on pull, never merge
-  rebase = true
+  rebase = false
 [alias]
   st = status
   s = status -s
