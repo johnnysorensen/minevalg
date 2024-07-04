@@ -1,15 +1,4 @@
-﻿
-- `	`[Shortkeys](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Shortkeys)
-  - [Keyboard på laptop:](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Keyboardpålaptop:)
-  - [Fnutter:](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Fnutter:)
-  - [Finder:](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Finder:)
-- [Intellij:](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Intellij:)
-  - [Egendefinerte](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Egendefinerte)
-  - [Live templates, egendefinerte for javascript:](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Livetemplates,egendefinerteforjavascript:)
-- [Mac med PC-keyboard](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-MacmedPC-keyboard)
-- [Ta skjermdump](https://wiki.sits.no/display/~k96431/Fra+PC+til+Mac#FraPCtilMac-Taskjermdump)
-
-**Shortkeys på Mac**
+﻿**Shortkeys på Mac**
 
 (FN = function key)
 
@@ -49,10 +38,10 @@ Skriv inn adresse: Shift + cmd + g
 ||**Windows**|**Mac**|
 |Åpne klasse|ctrl + N|cmd + O|
 |Åpne fil|shift + ctrl + N|shift cmd + O|
-|Merke område nivåvis|ctrl + W  og shift + ctrl + W|Opt + pil-opp og shift + opt + pil-opp |
+|Merke område nivåvis|ctrl + W og shift + ctrl + W|Opt + pil-opp og shift + opt + pil-opp |
 |Slette linje|Ctrl + Y|Cmd + backspace|
 |Skjøte neste linje opp på denne||shift + ctrl + J|
-|Tilbake til forrige / neste|![(spørsmål)](Aspose.Words.ff812215-2f0a-43e4-94b5-354322890dc8.001.png) ctrl + alt + <- og ctrl + alt + ->|<p>Opt + cmd + ← og opt + cmd + →</p><p>Kan også gjøres med tommelknapper på (ny)mus.</p>|
+|Tilbake til forrige / neste|ctrl + alt + <- og ctrl + alt + ->|<p>Opt + cmd + ← og opt + cmd + →</p><p>Kan også gjøres med tommelknapper på (ny)mus.</p>|
 |Merke flere like|Alt + J|Ctrl + G|
 |Åpne preferences||Cmd + ,|
 |Flipp mellom 2 vinduer||Opt + cmd + ´ |
