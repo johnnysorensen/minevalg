@@ -89,7 +89,8 @@ Skriv inn adresse: Shift + cmd + g
 | Laptop: blokkkommentar                 | Ctrl + alt + 7                     | ctrl + opt + cmd + 7                                                                      |
 | Laptop:    New ...      (alt + insert) | Alt + Context-knapp                | Shift + N                                                                                 |
 | Analyze stack trace                    |                                    | opt + A                                                                                   |
-|                                        |                                    |                                                                                           |
+| Utvid valgt område                     | Alt + pil-opp (samme som Mac)      |                                                                                           |
+| Inskrenk valgt område                  | Alt + pil-ned (samme som Mac)      |                                                                                           |
 
 **Live templates, egendefinerte for javascript:**
 
