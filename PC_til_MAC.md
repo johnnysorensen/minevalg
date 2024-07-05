@@ -2,7 +2,7 @@
 
 (FN = function key)
 
-**Keyboard på laptop:**
+**Keyboard på laptop (Mac):**
 
 DELELTE (slett til høyre): FN + backspace
 
