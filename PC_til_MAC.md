@@ -20,14 +20,13 @@ Låse PC: ctrl + cmd + q
 | :- | :- | :- | :- |
 |Anførselstegn|"|shift + 2|"en tekststreng"|
 |Apostrof|'|"pipe" (til venstre for 1-tasten)|'en tekststreng'|
-|~~javascript-fnutt~~|~~`~~|~~opt + backslash (til høyre for  +-tasten)~~|~~`en tekststreng med ${verdi}`~~|
-|<p>Mattermost-fnutt</p><p>kotlin test -fnutt</p><p>javascript-fnutt</p>|`|shift + backslash (til høyre for  +-tasten)|<p>```noe tekst```</p><p></p><p>`en tekststreng med ${verdi}`</p>|
+|<p>Mattermost-fnutt</p><p>kotlin test -fnutt</p><p>javascript-fnutt</p>|`|shift + backslash (til høyre for +-tasten)|<p>```noe tekst```</p><p></p><p>`en tekststreng med ${verdi}`</p>|
 
 **Finder:**
 
 Koble til H: disk: cmd + k
 
-Vis/Ikke vis  skjulte filer: shift + cmd + .
+Vis/Ikke vis skjulte filer: shift + cmd + .
 
 Skriv inn adresse: Shift + cmd + g
 
@@ -41,11 +40,11 @@ Skriv inn adresse: Shift + cmd + g
 | Merke område nivåvis                   | ctrl + W og shift + ctrl + W       | Opt + pil-opp og shift + opt + pil-opp                                                   |
 | Slette linje                           | Ctrl + Y                           | Cmd + backspace                                                                           |
 | Skjøte neste linje opp på denne        |                                    | shift + ctrl + J                                                                          |
-| Tilbake til forrige / neste            | ctrl + alt + <- og ctrl + alt + -> | <p>Opt + cmd + ← og opt + cmd + →</p><p>Kan også gjøres med tommelknapper på (ny)mus.</p> |
+| Tilbake til forrige / neste            | ctrl + alt + <- og ctrl + alt + -> | <p>Opt + cmd + ← og opt + cmd + →</p><p>Kan også gjøres med tommelknapper på (ny)mus.</p> |
 | Merke flere like                       | Alt + J                            | Ctrl + G                                                                                  |
 | Åpne preferences                       |                                    | Cmd + ,                                                                                   |
-| Flipp mellom 2 vinduer                 |                                    | Opt + cmd + ´                                                                             |
-| Bytt vindu blant alle Intellij-vinduer |                                    | Shift + opt + cmd + ´                                                                     |
+| Flipp mellom 2 vinduer                 |                                    | Opt + cmd + ´                                                                             |
+| Bytt vindu blant alle Intellij-vinduer |                                    | Shift + opt + cmd + ´                                                                     |
 |                                        | Ctrl + home                        | <p>Cmd + home</p><p>Laptop: FN + cmd + ←</p>                                              |
 |                                        | Ctrl + end                         | <p>Cmd + end</p><p>Laptop: FN + cmd + →</p>                                               |
 | Kommentar                              | ctrl + /                           | cmd + /                                                                                   |
@@ -57,7 +56,7 @@ Skriv inn adresse: Shift + cmd + g
 | Marker med multi-cursor                |                                    | opt + mus-drag                                                                            |
 | Velg multi-cursor med mus              |                                    | Shift + opt + mus-drag                                                                    |
 | Skifte mellom multi-cursor-drag        |                                    | Shift + cmd + 8                                                                           |
-|                                        | Alt + insert                       | Ctrl + enter    eller    cmd + N                                                          |
+|                                        | Alt + insert                       | Ctrl + enter eller cmd + N                                                                |
 |                                        | Alt + enter                        | Opt + enter                                                                               |
 | New scratch file                       | Shift + alt + insert               | Shift + cmd + n                                                                           |
 | Kjøre kode/test                        | Shift + F10 / F10                  | Shift + ctrl + R / Ctrl + R                                                               |
@@ -94,15 +93,11 @@ Skriv inn adresse: Shift + cmd + g
 
 **Live templates, egendefinerte for javascript:**
 
-||
-| :- |
-||
-
 |imp|import {$END$} from '$INPUT$';|
 | :- | :- |
-|arr|($INPUT$) => {<br>`  `$END$<br>}|
+|arr|($INPUT$) => {<br>$END$<br>}|
 |cons|console.log('#-$INPUT$-#', $END$);|
-|tod|`    `// TODO: jos - |
+|tod|// TODO: jos -|
 
 
 **Mac med PC-keyboard**
@@ -125,5 +120,4 @@ Skjermdump av utsnitt du selv velger: Shift + Command + 4
 
 Skjermdump av hele siden: Shift + Command + 3
 
-Skjermdump til Clipboard : Ctrl + Shift + Command + 3 (eller 4) 
-
+Skjermdump til Clipboard : Ctrl + Shift + Command + 3 (eller 4)
