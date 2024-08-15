@@ -58,7 +58,7 @@ Skriv inn adresse: Shift + cmd + g
 | Skifte mellom multi-cursor-drag        |                                    | Shift + cmd + 8                                                                           |
 |                                        | Alt + insert                       | Ctrl + enter eller cmd + N                                                                |
 |                                        | Alt + enter                        | Opt + enter                                                                               |
-| New scratch file                       | Shift + alt + insert               | Shift + cmd + n                                                                           |
+| New scratch file                       | Shift + ctrl + alt + insert        | Shift + cmd + n                                                                           |
 | Kjøre kode/test                        | Shift + F10 / F10                  | Shift + ctrl + R / Ctrl + R                                                               |
 | Debug kode/test                        | Shift + F9 / F9                    | Shift + ctrl + D / ctrl + D                                                               |
 | Søk                                    | ctrl + f / shift + ctrl + F        | cmd + F / shift + cmd + F                                                                 |
