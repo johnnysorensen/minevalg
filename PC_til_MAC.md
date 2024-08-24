@@ -95,11 +95,11 @@ Skriv inn adresse: Shift + cmd + g
 
 **Live templates, egendefinerte for javascript:**
 
-|imp|import {$END$} from '$INPUT$';|
-| :- | :- |
-|arr|($INPUT$) => {<br>$END$<br>}|
-|cons|console.log('#-$INPUT$-#', $END$);|
-|tod|// TODO: jos -|
+| imp  | import {$END$} from '$INPUT$';              |                                                       |
+|:-----|:--------------------------------------------|:------------------------------------------------------|
+| arr  | ($INPUT$) => {<br>$END$<br>}                |                                                       |
+| cons | console.log('#-\$EXPR\_COPY\$-#', \$EXPR\$) | EXPR, EXPR_COPY=escapeString(EXPR) (skip if defined?) |
+| tod  | // TODO: jos -                              |                                                       |
 
 
 **Mac med PC-keyboard**
