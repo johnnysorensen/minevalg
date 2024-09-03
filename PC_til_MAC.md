@@ -100,6 +100,7 @@ Skriv inn adresse: Shift + cmd + g
 | arr  | ($INPUT$) => {<br>$END$<br>}                |                                                       |
 | cons | console.log('#-\$EXPR\_COPY\$-#', \$EXPR\$) | EXPR, EXPR_COPY=escapeString(EXPR) (skip if defined?) |
 | tod  | // TODO: jos -                              |                                                       |
+| uses | const [$VAR$, set$SETTER$] = useState($DEFAULT$)$END$ | SETTER=groovyScript("_1?.length() > 0 ? _1.substring(0,1).toUpperCase() + _1.substring(1) : ''", VAR) |
 
 
 **Mac med PC-keyboard**
