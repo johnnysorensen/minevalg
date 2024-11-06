@@ -1,6 +1,8 @@
 ﻿**Shortkeys på Mac**
 
 (FN = function key)
+Flytte mellom apper: cmd + tab
+Flytte mellom vinuer i en app: cmd + '
 
 **Keyboard på laptop (Mac):**
 
