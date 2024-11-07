@@ -107,8 +107,8 @@ Skriv inn adresse: Shift + cmd + g
 
 **Mac med PC-keyboard**
 
-||||
-| :- | :- | :- |
+||Oppsett 1|Oppsett 2|
+| :- | :- | :- | :- |
 |Command|Windows-tast (win)||
 |Option|Alt||
 |Control|ctrl||
