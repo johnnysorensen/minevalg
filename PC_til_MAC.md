@@ -107,14 +107,14 @@ Skriv inn adresse: Shift + cmd + g
 
 **Mac med PC-keyboard**
 
-||||
-| :- | :- | :- |
-|Command|Windows-tast (win)||
-|Option|Alt||
-|Control|ctrl||
-|Vise tomt skrivebord|Høyre ctrl-tast||
-|Organisere vinduer|Venstre ctrl-tast||
-|Låse skjerm/bruker|ctrl + win + q||
+|| Oppsett 1          | Oppsett 2          |
+| :- |:-------------------|:-------------------|
+|Command| Windows-tast (win) | Alt                |
+|Option| Alt                | Windows-tast (WIN) |
+|Control| ctrl               | ctrl               |
+|Vise tomt skrivebord| Høyre ctrl-tast    |                    |
+|Organisere vinduer| Venstre ctrl-tast  |                    |
+|Låse skjerm/bruker| ctrl + win + q     |                    |
 
 **Ta skjermdump på Mac**
 
