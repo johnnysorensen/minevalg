@@ -107,14 +107,15 @@ Skriv inn adresse: Shift + cmd + g
 
 **Mac med PC-keyboard**
 
-|| Oppsett 1          | Oppsett 2          |
-| :- |:-------------------|:-------------------|
-|Command| Windows-tast (win) | Alt                |
-|Option| Alt                | Windows-tast (WIN) |
-|Control| ctrl               | ctrl               |
-|Vise tomt skrivebord| Høyre ctrl-tast    |                    |
-|Organisere vinduer| Venstre ctrl-tast  |                    |
-|Låse skjerm/bruker| ctrl + win + q     |                    |
+|                      | Oppsett 1          | Oppsett 2               |
+|:---------------------|:-------------------|:------------------------|
+| Command              | Windows-tast (win) | Alt                     |
+| Option               | Alt                | Windows-tast (WIN)      |
+| Control              | ctrl               | ctrl                    |
+| Vise tomt skrivebord | Høyre ctrl-tast    | ctrl + &rarr;           |
+| Organisere vinduer   | Venstre ctrl-tast  |                         |
+| Låse skjerm/bruker   | ctrl + win + q     | ctrl + win + q          |
+| Tilde                |                    | opt + ¨  (hatt-knappen) |
 
 **Ta skjermdump på Mac**
 
@@ -126,3 +127,17 @@ Skjermdump av utsnitt du selv velger: Shift + Command + 4
 Skjermdump av hele siden: Shift + Command + 3
 
 Skjermdump til Clipboard : Ctrl + Shift + Command + 3 (eller 4)
+
+**Rectangle for Mac**
+
+| Aksjon             | Tastetrykk                |
+|--------------------|---------------------------|
+| Venstre halvedl    | opt + cmd + &larr;        |
+| Høre halvdel       | opt + cmd + &rarr;        |
+| Gjør mindre        | ctrl + opt + &larr;       |
+| Gjør større        | ctrl + opt + &rarr;       |
+| 1/3 (egendefinert) | shift + ctrl + &larr;     |
+| 2/3 (egendefinert)               | shift + ctrl + &uarr;     |
+| 3/3 (egendefinert)               | shift + ctrl + &rarr;     |
+| Neste skjerm       | ctrl + opt + cmd + &rarr; |
+| Forrige skjerm     | ctrl + opt + cmd + &larr; |
