@@ -66,6 +66,7 @@ Skriv inn adresse: Shift + cmd + g
 | Søk                                    | ctrl + f / shift + ctrl + F                | cmd + F / shift + cmd + F                                                                           |
 | Søk, neste / forrige                   | F3 / shift F3                              | cmd + G / shift + cmd + G                                                                           |
 | Gå til linje                           | Ctrl + G                                   | cmd + L                                                                                             |
+| Vise liste over siste filer            | Ctrl + E                                   | cmd + E                                                                                             |
 | **Refaktorere**                        |                                            |                                                                                                     |
 | Ekstraher til variabel                 | ctrl + alt + V                             | opt + cmd + V                                                                                       |
 | Andre tilsvarende Refaktoreringer      | ctrl + alt + ###                           | opt + cmd + ###                                                                                     |
